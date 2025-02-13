@@ -1,0 +1,54 @@
+Output(Question 1):-
+
+Code By Aaroh Gaur(22BCS17238)
+Enter a string: Heelo World 2024!!
+vowels: 4
+consonants: 6
+Digits: 4
+Special Characters: 2
+
+--------------------------------------------------------------------------------------------------------------------------
+Output(Question 2):-
+
+Code by Aaroh Gaur (22BCS17238)
+Enter the number of rows for Matrix :
+2 
+Enter the number of columns for Matrix :
+2
+Enter the elements of Matrix 1:
+1 2 3 4
+Enter the elements of Matrix 2:
+5 6 7 8
+Addition:
+6 8 
+10 12 
+Subtraction:
+-4 -4 
+-4 -4 
+Multiplication:
+19 22 
+43 50 
+
+-------------------------------------------------------------------------------------------------------------------------
+Output(Question 3):-
+
+
+Code By Aaroh Gaur(22BCS17238)
+Create Account:
+Name: Aaroh 
+Account Number: 123111
+Initial Balance: 10000
+
+Choose an operation: 1. Deposit  2. Withdraw  3. Exit
+1
+Enter deposit amount: 200
+Deposit successful! Current Balance: 10200.0
+
+Choose an operation: 1. Deposit  2. Withdraw  3. Exit
+2
+Enter withdrawal amount: 300
+Withdrawal successful! Current Balance: 9900.0
+
+Choose an operation: 1. Deposit  2. Withdraw  3. Exit
+3
+Exiting. Thank you!
